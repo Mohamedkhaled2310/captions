@@ -23,7 +23,7 @@ const menuData: Menu[] = [
     id: 2.3,
     title: "Docs",
     newTab: false,
-    path: "/docs",
+    path: "/loggedUserPages/homePage",
   },
   {
     id: 3,
